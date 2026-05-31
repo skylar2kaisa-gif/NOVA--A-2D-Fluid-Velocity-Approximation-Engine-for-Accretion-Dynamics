@@ -1,0 +1,2 @@
+# NOVA--A-2D-Fluid-Velocity-Approximation-Engine-for-Accretion-Dynamics
+terminal simulator that models stellar bodies trapped in an energy-dissipating, viscous space-time metric. Instead of solving standard vacuum geodesic tensors, the engine utilizes a direct radial-velocity decay model ((\frac{dr}{dt} \propto -r^{-2})) coupled with a uniform frame-dragging angular velocity ((\frac{d\theta}{dt} = \Omega + \delta)).
