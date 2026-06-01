@@ -26,3 +26,11 @@ How to run: python nova_omega_relativity.py
 
 <img width="1745" height="1078" alt="image" src="https://github.com/user-attachments/assets/a64d34d0-f908-4999-92c6-e97f14fada38" />
 
+Gif Previews:
+
+Kinematic Advection Engine (nova_omega_sim.py):
+<img width="800" height="562" alt="Image" src="https://github.com/user-attachments/assets/9f9df5a6-d820-472c-8d8e-119467d878e1" />
+
+Dynamical Relativistic Force Engine (nova_omega_relativity.py):
+<img width="800" height="604" alt="Image" src="https://github.com/user-attachments/assets/8aabb872-c1e6-41e3-ba80-b1123ad8e207" />
+
