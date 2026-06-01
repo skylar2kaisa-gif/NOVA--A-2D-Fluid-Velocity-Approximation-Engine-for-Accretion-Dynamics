@@ -5,7 +5,7 @@ An optimized, self-contained Python framework for visualizing orbital mechanics,
 ## 🌌 Core Mechanics & Architecture
 The project features a modular architecture that cleanly separates a high-performance cell-buffered renderer (`Screen` class with DEC 2026 synchronized output) from underlying gravitational equations.
 
-### 1. Kinematic Advection Engine (`nova_omega.py`)
+### 1. Kinematic Advection Engine (`nova_omega_sim.py`)
 Models smooth, steady-state planetary drift across localized fields.
 * **Radial Decay Gradient:** $dr/dt = -G_{\text{pull}} / r^2$
 * **Application:** Ideal for uniform particle-ring distribution and predictive fluid simulation.
