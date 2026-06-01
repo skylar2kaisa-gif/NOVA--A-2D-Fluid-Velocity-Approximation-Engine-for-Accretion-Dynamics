@@ -18,3 +18,8 @@ A reality-focused simulator integrating Einsteinian orbital corrections and ther
 * **Conservation of Angular Momentum:** Dynamically updates the central singularity's global spin ($\Omega$) upon event horizon ingestion ($r < 2.0$), feeding mass energy directly back into the differential frame-dragging grid:
   $$\Omega_{\text{new}} = \Omega_{\text{old}} + (m_{\text{body}} \times 0.02)$$
 
+Kinematic Advection Engine (`nova_omega_sim.py`):
+How to run: python nova_omega_sim.py
+
+Dynamical Relativistic Force Engine (`nova_omega_relativity.py`)
+How to run: python nova_omega_relativity.py
