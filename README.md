@@ -23,3 +23,6 @@ How to run: python nova_omega_sim.py
 
 Dynamical Relativistic Force Engine (`nova_omega_relativity.py`)
 How to run: python nova_omega_relativity.py
+
+<img width="1745" height="1078" alt="image" src="https://github.com/user-attachments/assets/a64d34d0-f908-4999-92c6-e97f14fada38" />
+
